@@ -396,4 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-The Matrix/person_data.json
+The Matrix/people_data.json
